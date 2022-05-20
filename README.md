@@ -11,9 +11,12 @@ Upon completing the revised analysis where the reading and math grades for Thoma
 
 - However, Thomas High School sees greatly improved passing rates as a result of the revised analysis.  The % Overall Passing rate increased by 25%. 
 
+Original School Summary:
+
 ![Original_School_Summary](https://user-images.githubusercontent.com/102322707/169615816-e6b636d7-50b3-4cf8-889a-0cdd796b3721.PNG)
 
-                  
+ Revised School Summary:
+ 
 ![Revised_School_Summary](https://user-images.githubusercontent.com/102322707/169611894-f9e8d520-1cd2-44a0-a75f-0ad8b844c09c.PNG)
 
 
@@ -46,4 +49,5 @@ Replacing the ninth-grade scores affected the following:
 
 ## Resources
 Data Sources: students_complete.csv, schools_complete.csv
-Software: jupyter notebook,  
+
+Software: jupyter notebook, Python 3.7 (64-bit), pandas
