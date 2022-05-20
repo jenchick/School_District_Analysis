@@ -7,18 +7,29 @@ Upon completing the revised analysis where the reading and math grades for Thoma
 
 - Affect on District Summary
 The original District Summary 
+![Original_Overall_Passing](https://user-images.githubusercontent.com/102322707/169610951-40fa6389-e728-4130-a5df-efd5ff7ba63a.PNG)
 
 
 
 - How is the school summary affected?
 
+![THS_Original](https://user-images.githubusercontent.com/102322707/169611290-c81af528-5055-4475-a94f-97efa03e55f1.PNG)
+
+![THS_Revised](https://user-images.githubusercontent.com/102322707/169611313-fced5930-2b23-4363-8544-46a176d0eed4.PNG)
+
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+![Reviesed_School_Summary](https://user-images.githubusercontent.com/102322707/169611396-7a719ab1-0210-427f-afe8-28f4f5dad745.PNG)
+
 
 - How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
 
+
 - Scores by school spending
+
 
 - Scores by school size
 
