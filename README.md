@@ -38,7 +38,11 @@ Replacing the ninth-grade scores affected the following:
 ![Type](https://user-images.githubusercontent.com/102322707/169616756-7a62c470-f747-4a57-9d1c-69be365b0315.PNG)
 
 ## Summary 
-ds;lkjsd;lkfjsd
+- In Summary, four observations can be made as a result of removing the Thomas High School 9th grade reading and math scores.
+  - The percent of students passing math greatly improved for Thomas High School.
+  - The percent of students passing reading greatly improved for Thomas High School.
+  - The percent overall passing rate greatly improved for Thomas High School.
+  - The average reading and math scores remained relatively unchanged which appears to be quite curious and may require further investigation.  
 
 ## Resources
 
