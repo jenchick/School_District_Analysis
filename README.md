@@ -21,19 +21,28 @@ Upon completing the revised analysis where the reading and math grades for Thoma
 
 ![Top_Schools_Revised](https://user-images.githubusercontent.com/102322707/169614989-23d11b75-f426-4f4d-9604-40db5adfdb63.PNG)
 
-- Replacing the ninth-grade scores affected the following:
+Replacing the ninth-grade scores affected the following:
 
   - Math and reading scores by grade seemed unaffected, such that the average math and reading scores remained the same.
 
   - Scores by school spending
-
+  
+  
 ![Spending_per_Student](https://user-images.githubusercontent.com/102322707/169616610-192d9d69-1e0a-4889-995b-145511878305.PNG)
 
-   - Scores by school size
+  - Scores by school size
+  
+![Size](https://user-images.githubusercontent.com/102322707/169616765-235393d7-987d-41a4-9475-1dea9a77b8a2.PNG)  
+  
+  - Scores by school type
+  
 
-![Size](https://user-images.githubusercontent.com/102322707/169616765-235393d7-987d-41a4-9475-1dea9a77b8a2.PNG)
 
-   - Scores by school type
+ 
+
+
+
+
 
 ![Type](https://user-images.githubusercontent.com/102322707/169616756-7a62c470-f747-4a57-9d1c-69be365b0315.PNG)
 
