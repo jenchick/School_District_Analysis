@@ -25,30 +25,20 @@ Replacing the ninth-grade scores affected the following:
 
   - Math and reading scores by grade seemed unaffected, such that the average math and reading scores remained the same.
 
-  - Scores by school spending
-  
+  - Scores by school spending indicates that less money is spent per student when scores are higher.  Thomas High School falls into the range of $631 - $645 per student.
   
 ![Spending_per_Student](https://user-images.githubusercontent.com/102322707/169616610-192d9d69-1e0a-4889-995b-145511878305.PNG)
 
-  - Scores by school size
+  - Scores by school size is unaffected based on Thomas High School having 1635 students.
   
 ![Size](https://user-images.githubusercontent.com/102322707/169616765-235393d7-987d-41a4-9475-1dea9a77b8a2.PNG)  
   
-  - Scores by school type
+  - Scores by school type shows that Charter Schools, of which Thomas High School is one, appear to have a slightly better scores and extremely better passing rates.
   
-
-
- 
-
-
-
-
-
 ![Type](https://user-images.githubusercontent.com/102322707/169616756-7a62c470-f747-4a57-9d1c-69be365b0315.PNG)
 
 ## Summary 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-(There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced )
+
 
 ## Resources
 
