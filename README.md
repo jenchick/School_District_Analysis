@@ -1,14 +1,14 @@
 # School_District_Analysis
 ## Overview of the school district analysis
-Explain the purpose of this analysis.
-
-The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
+The school board has has concerns regarding the data in the students_complete.csv file such that evidence of academic dishonesty is present. They would like to remove the reading and math grades for Thomas High School ninth graders, as they appear to have been altered. In order to uphold state-testing standards, I am to replace the math and reading scores for Thomas High School with NaNs ("not a number") while keeping the rest of the data intact. Then, the original analysis should be completed to compare the new/revised results to the original results.
 
 ## Results 
-Using bulleted lists and images of DataFrames as support, address the following questions.
-(There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data )
+Upon completing the revised analysis where the reading and math grades for Thomas High School were removed, the following was observed:
 
-- How is the district summary affected?
+- Affect on District Summary
+The original District Summary 
+
+
 
 - How is the school summary affected?
 
