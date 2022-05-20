@@ -45,4 +45,5 @@ Replacing the ninth-grade scores affected the following:
   - The average reading and math scores remained relatively unchanged which appears to be quite curious and may require further investigation.  
 
 ## Resources
-
+Data Sources: students_complete.csv, schools_complete.csv
+Software: jupyter notebook,  
